@@ -1,0 +1,125 @@
+2025-06-01 19:21:42,493 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-06-01 19:21:42,493 - werkzeug - INFO -  * Running on http://128.189.195.115:5001/ (Press CTRL+C to quit)
+2025-06-01 19:21:42,495 - werkzeug - INFO -  * Restarting with stat
+2025-06-01 19:21:43,831 - werkzeug - WARNING -  * Debugger is active!
+2025-06-01 19:21:43,847 - werkzeug - INFO -  * Debugger PIN: 136-010-552
+2025-06-01 19:21:54,892 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-01 19:21:55,106 - werkzeug - INFO -  * Restarting with stat
+2025-06-01 19:21:56,242 - werkzeug - WARNING -  * Debugger is active!
+2025-06-01 19:21:56,252 - werkzeug - INFO -  * Debugger PIN: 136-010-552
+2025-06-01 19:22:51,535 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:22:51] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:22:53,297 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:22:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-01 19:22:55,337 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:22:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:25:00,415 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:25:00] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:25:10,928 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:25:10] "GET /health HTTP/1.1" 200 -
+2025-06-01 19:28:34,077 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:28:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:30:08,251 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:30:08] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:30:08,713 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:30:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-01 19:30:12,536 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-01 19:30:12,873 - werkzeug - INFO -  * Restarting with stat
+2025-06-01 19:30:14,690 - werkzeug - WARNING -  * Debugger is active!
+2025-06-01 19:30:14,701 - werkzeug - INFO -  * Debugger PIN: 136-010-552
+2025-06-01 19:30:19,356 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:30:19] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:30:21,481 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:30:21] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:35:02,752 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:35:02] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 19:36:53,800 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://128.189.195.115:5001
+2025-06-01 19:36:53,801 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-01 19:36:53,871 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-01 19:36:55,548 - werkzeug - WARNING -  * Debugger is active!
+2025-06-01 19:36:55,561 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-01 19:37:09,856 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:37:09] "GET / HTTP/1.1" 200 -
+2025-06-01 19:37:32,412 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:37:32] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-01 19:38:08,216 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:38:08] "GET / HTTP/1.1" 200 -
+2025-06-01 19:38:23,222 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:38:23] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-01 19:38:32,870 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-01 19:38:32,887 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:38:32] "POST /get_response HTTP/1.1" 200 -
+2025-06-01 19:57:49,562 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:57:49] "GET / HTTP/1.1" 200 -
+2025-06-01 19:58:11,698 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-01 19:58:11,713 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 19:58:11] "POST /get_response HTTP/1.1" 200 -
+2025-06-01 20:07:50,382 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 20:07:50] "GET / HTTP/1.1" 200 -
+2025-06-01 20:08:17,694 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-01 20:08:17,707 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 20:08:17] "POST /get_response HTTP/1.1" 200 -
+2025-06-01 20:17:56,391 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 20:17:56] "GET / HTTP/1.1" 200 -
+2025-06-01 20:18:13,423 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-01 20:18:13,432 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 20:18:13] "POST /get_response HTTP/1.1" 200 -
+2025-06-01 20:59:11,648 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 20:59:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-01 21:00:42,588 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:00:42] "GET / HTTP/1.1" 200 -
+2025-06-01 21:02:46,534 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/frontend/node_modules/flatted/python/flatted.py', reloading
+2025-06-01 21:02:46,540 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/frontend/node_modules/flatted/python/flatted.py', reloading
+2025-06-01 21:02:47,518 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-01 21:02:53,002 - werkzeug - WARNING -  * Debugger is active!
+2025-06-01 21:02:53,018 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-01 21:07:09,130 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:07:09] "GET / HTTP/1.1" 200 -
+2025-06-01 21:07:09,161 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:07:09] "GET /src/main.tsx HTTP/1.1" 200 -
+2025-06-01 21:07:09,226 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:07:09] "[33mGET /vite.svg HTTP/1.1[0m" 404 -
+2025-06-01 21:08:15,532 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:08:15] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-01 21:08:15,571 - werkzeug - INFO - 127.0.0.1 - - [01/Jun/2025 21:08:15] "[36mGET /src/main.tsx HTTP/1.1[0m" 304 -
+2025-06-02 16:49:33,387 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 16:49:33,403 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 16:49:34,482 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-02 16:49:40,569 - werkzeug - WARNING -  * Debugger is active!
+2025-06-02 16:49:40,588 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-02 18:14:27,673 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 18:14:27,687 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 18:14:29,226 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-02 18:14:33,885 - werkzeug - WARNING -  * Debugger is active!
+2025-06-02 18:14:33,910 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-02 18:17:53,036 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/frontend/node_modules/flatted/python/flatted.py', reloading
+2025-06-02 18:17:54,110 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-02 18:18:02,237 - werkzeug - WARNING -  * Debugger is active!
+2025-06-02 18:18:02,272 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-02 18:19:09,464 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:19:09] "GET / HTTP/1.1" 200 -
+2025-06-02 18:19:09,921 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:19:09] "GET /src/MindLinkVR.tsx HTTP/1.1" 200 -
+2025-06-02 18:22:17,828 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:22:17] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-02 18:22:18,297 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:22:18] "[36mGET /src/MindLinkVR.tsx HTTP/1.1[0m" 304 -
+2025-06-02 18:23:13,856 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:23:13] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-02 18:23:14,270 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:23:14] "[36mGET /src/MindLinkVR.tsx HTTP/1.1[0m" 304 -
+2025-06-02 18:23:35,999 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:23:35] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-02 18:23:36,500 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:23:36] "[36mGET /src/MindLinkVR.tsx HTTP/1.1[0m" 304 -
+2025-06-02 18:47:34,693 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://128.189.195.115:5001
+2025-06-02 18:47:34,694 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-02 18:47:34,719 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-02 18:47:37,074 - werkzeug - WARNING -  * Debugger is active!
+2025-06-02 18:47:37,101 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-02 18:48:25,021 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:48:25] "[33mGET /get_response HTTP/1.1[0m" 404 -
+2025-06-02 18:51:46,761 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 18:51:46,766 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 18:51:47,380 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
+2025-06-02 18:51:51,970 - werkzeug - WARNING -  * Debugger is active!
+2025-06-02 18:51:51,984 - werkzeug - INFO -  * Debugger PIN: 343-314-126
+2025-06-02 18:51:57,696 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:51:57] "[33mGET /get_response HTTP/1.1[0m" 404 -
+2025-06-02 18:52:03,004 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:52:03] "GET / HTTP/1.1" 200 -
+2025-06-02 18:52:03,109 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:52:03] "GET /src/main.tsx HTTP/1.1" 200 -
+2025-06-02 18:52:07,416 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:52:07] "[36mGET / HTTP/1.1[0m" 304 -
+2025-06-02 18:52:07,441 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:52:07] "[36mGET /src/main.tsx HTTP/1.1[0m" 304 -
+2025-06-02 18:59:56,504 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:59:56] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 18:59:58,756 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 18:59:58,786 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 18:59:58] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:32:59,774 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:32:59] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:33:02,477 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:33:02,511 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:33:02] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:42:46,899 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:42:46] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:42:50,584 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:42:50,611 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:42:50] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:43:04,947 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:43:04] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:43:08,346 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:43:08,367 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:43:08] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:44:37,423 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:44:37] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:44:41,679 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:44:41,690 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:44:41] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:45:02,910 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:45:02] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:45:06,365 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:45:06,382 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:45:06] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 19:48:10,640 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:48:10] "OPTIONS /get_response HTTP/1.1" 200 -
+2025-06-02 19:48:13,659 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-02 19:48:13,692 - werkzeug - INFO - 127.0.0.1 - - [02/Jun/2025 19:48:13] "POST /get_response HTTP/1.1" 200 -
+2025-06-02 20:14:43,701 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 20:14:43,706 - werkzeug - INFO -  * Detected change in '/Users/nikoo/unity project/app.py', reloading
+2025-06-02 20:14:45,109 - werkzeug - INFO -  * Restarting with watchdog (fsevents)
